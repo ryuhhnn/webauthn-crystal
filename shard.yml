@@ -1,0 +1,9 @@
+name: webauthn
+version: 0.1.0
+
+authors:
+  - Ryan Coleman <me@ryuhhnn.com>
+
+crystal: 1.7.3
+
+license: MIT
